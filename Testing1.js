@@ -3,6 +3,7 @@ function read (){
         let b=13
         let sum=a+b;
         console.log(sum);
+        return sum
         
 }
-read()
+ let res=read()
